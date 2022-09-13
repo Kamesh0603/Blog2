@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+    background-image: linear-gradient(to bottom,sandybrown,rgb(48, 138, 87));
+}
+.parentContainer{
+    width: 60vw;
+    height: 70vh;
+    text-align: center;
+    margin: 15vh auto;
+
+}
+.title{
+    font-size: 32px;
+    margin: 2.5vh 0px;
+}
+.subtitle{
+    font-size: 28px;
+    margin: 2.5vh 0px;
+
+}
+.text{
+    font-size: 20px;
+    margin: 2.5vh 0px;
+    text-align: justify;
+    padding: 0px 5vw;
+
+}
